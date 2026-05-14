@@ -1,0 +1,16 @@
+[
+  {
+    "id": "s01e01",
+    "title": "A Morte Tem Uma Sombra",
+    "description": "Primeiro episódio.",
+    "poster": "https://pub-587771f53f3d42fd9f3e2e42ea8a608d.r2.dev/S1/EP%201/thumb.jpg",
+    "url": "https://pub-587771f53f3d42fd9f3e2e42ea8a608d.r2.dev/S1/EP%201/video.mp4",
+    "subtitleUrl": "https://pub-587771f53f3d42fd9f3e2e42ea8a608d.r2.dev/S1/EP%201/legenda.srt",
+    "streamFormat": "mp4",
+    "season": 1,
+    "episode": 1,
+    "category": "Temporada 1",
+    "duration": "22 min",
+    "year": "1999"
+  }
+]
