@@ -1,16 +1,18 @@
-
 [
   {
+    "appIntroUrl": "https://pub-587771f53f3d42fd9f3e2e42ea8a608d.r2.dev/intro.mp4",
+    "introStreamFormat": "mp4",
+
     "seriesId": "familia-da-pesada",
     "seriesTitle": "Família da Pesada",
     "seriesDescription": "Série animada com várias temporadas.",
-    "seriesPoster": "https://pub-587771f53f3d42fd9f3e2e42ea8a608d.r2.dev/banner.jpg",
+    "seriesPoster": "https://pub-587771f53f3d42fd9f3e2e42ea8a608d.r2.dev/S1/EP%201/thumb.jpg",
 
     "id": "s01e01",
     "title": "A Morte Tem Uma Sombra",
     "description": "Episódio 1 da temporada 1.",
     "poster": "https://pub-587771f53f3d42fd9f3e2e42ea8a608d.r2.dev/S1/EP%201/thumb.jpg",
-    "url": "https://pub-587771f53f3d42fd9f3e2e42ea8a608d.r2.dev/S1/EP%201/video.mp4",
+    "url": "https://pub-587771f53f3d42fd9f3e2e42ea8a608d.r2.dev/S1/EP%201/video_roku.mp4",
     "subtitleUrl": "https://pub-587771f53f3d42fd9f3e2e42ea8a608d.r2.dev/S1/EP%201/legenda.srt",
     "streamFormat": "mp4",
     "season": 1,
